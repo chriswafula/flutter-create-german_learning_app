@@ -1,0 +1,34 @@
+# Word-processor backups
+*.bak
+*.swp
+*~
+
+# Flutter/Dart auto-generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android specific builds
+.gradle/
+local.properties
+*.apk
+*.aab
+
+# iOS specific builds
+.mtj.tmp/
+*.mode1v3
+*.mode2v3
+*.storyboardc
+Pods/
+
+# Node.js / Firebase Functions dependencies
+functions/node_modules/
+functions/.runtimeconfig.json
+.firebase/
+
+# Secret / Environment files (Keep your API keys safe)
+.env
