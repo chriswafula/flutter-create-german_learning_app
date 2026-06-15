@@ -1,0 +1,17 @@
+german_learning_app/
+│
+├── lib/
+│   ├── main.dart
+│   ├── models/
+│   │   └── module_model.dart
+│   ├── screens/
+│   │   └── journey_screen.dart
+│   └── services/
+│       └── payment_service.dart
+│
+├── functions/
+│   ├── index.js
+│   └── package.json
+│
+├── pubspec.yaml
+└── README.md
